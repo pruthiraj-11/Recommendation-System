@@ -1,0 +1,41 @@
+{
+  "name": "tunemood",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@timebutt/face-api.js": "^0.23.2",
+    "@types/react-speech-recognition": "^3.9.5",
+    "antd": "^5.12.2",
+    "axios": "^1.6.2",
+    "csv": "^6.3.5",
+    "framer-motion": "^10.16.12",
+    "next": "13.5.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-speech-recognition": "^3.10.0",
+    "react-tensorflow": "^2.2.0",
+    "react-webcam": "^7.2.0",
+    "react-youtube-music-player": "^1.0.5",
+    "regenerator-runtime": "^0.14.0",
+    "styled-components": "^6.1.1",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "^5"
+  }
+}
